@@ -39,4 +39,5 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+/* eslint-disable @typescript-eslint/no-unused-vars */
 const analytics = getAnalytics(app);
